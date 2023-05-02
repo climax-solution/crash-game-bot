@@ -1,0 +1,26 @@
+{
+  "name": "touka-botv3",
+  "version": "0.1.1",
+  "description": "A Crash Fever bot designed to help players with unit info and regular the CF101 discord channel",
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "better-sqlite3": "^5.4.3",
+    "bufferutil": "^4.0.1",
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "enmap": "^5.2.3",
+    "erlpack": "github:discordapp/erlpack",
+    "libsodium-wrappers": "^0.7.6",
+    "mathjs": "^5.10.3",
+    "moment": "^2.24.0"
+  },
+  "scripts": {
+    "start": "start index.js"
+  },
+  "keywords": [
+    "bot",
+    "discord.js"
+  ],
+  "author": "Kate#5887",
+  "license": "MIT"
+}

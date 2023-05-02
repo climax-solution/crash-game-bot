@@ -1,0 +1,6 @@
+- tribe
+- gimmicks
+- quest colour
+- skill match
+- skill cooldown
+- allow question mark at the end

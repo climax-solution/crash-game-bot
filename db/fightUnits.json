@@ -1,0 +1,38 @@
+{
+    "units": [
+        {
+            "name": "Pascal (Summer)",
+            "attr": "Yellow",
+            "skill": {
+                "description": "Ultra attack twice, 10 Junk and Damage Panels each, Boost yellow attack, turn haste, chance of Damage Panels for 3 turns.",
+                "effects": ["attack", "dp", "boost", "haste", "junk"],
+                "cooldown": 7
+            }, 
+            "attack": {
+                "damage": 104,
+                "description": "Immense damage to 1 enemy + party gains 5 attack 2 turns."
+            },
+            "abilities": {
+                "one": "Attacks clear Damage Panels without taking damage and Junk panels.",
+                "two": ""
+            }
+            damage panel "break
+            junk "break"
+            boost yellow, attack again, explosion for 3 "turns"
+            clear count of damage "panel"
+            "clear count of junk"
+            706
+            52
+            40
+
+            511
+            71
+            15
+
+            1310
+            40
+            25
+
+        }
+    ]
+}
